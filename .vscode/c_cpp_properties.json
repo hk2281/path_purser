@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\minGW\\mingw32\\i686-w64-mingw32\\include",
+                "D:\\minGW\\mingw32\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "intelliSenseMode": "gcc-x64",
+            "cppStandard": "c++11",
+            "cStandard": "c11"
+        }
+    ],
+    "version": 4
+}
